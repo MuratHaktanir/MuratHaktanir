@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm a Junior iOS Developer and eager to learn more and more.
+I'm also Turkish language teacher in Istanbul.
+
+Now
+  * open to work as an iOS developer.
+  * learning html, css, and js.
+
+Bio
+  
+  * I use daily: SwiftUI, HTML, Hugo...
+  * I'm a huge fan of Matrix, Lord of the Rings and Harry Potter.
+
 <!--
 **MuratHaktanir/MuratHaktanir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
