@@ -12,6 +12,11 @@ Bio
   * I use daily: SwiftUI, HTML, Hugo...
   * I'm a huge fan of Matrix, Lord of the Rings and Harry Potter.
 
+Apps
+
+  * [Predicted Grade](https://apps.apple.com/tr/app/predicted-grade/id1605653350)
+  * [Zikir Sayar](https://apps.apple.com/tr/app/zikirsayar/id1609035143)  
+
 <!--
 **MuratHaktanir/MuratHaktanir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
