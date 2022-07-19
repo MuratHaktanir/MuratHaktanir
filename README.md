@@ -3,10 +3,6 @@
 I'm a Junior iOS Developer and eager to learn more and more.
 I'm also Turkish language teacher in Istanbul.
 
-Now
-  * open to work as an iOS developer.
-  * learning html, css, and js.
-
 Bio
   
   * I use daily: SwiftUI, HTML, Hugo...
