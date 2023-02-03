@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm a Junior iOS | WEB Developer and eager to learn more and more.
-I'm also Turkish language teacher in Istanbul.
 
 Bio
   
